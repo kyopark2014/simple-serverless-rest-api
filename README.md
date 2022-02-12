@@ -10,6 +10,7 @@ API Gateway는 http/https를 사용하는 브라우저 또는 application이 서
 ## Lambda 설정 
 
 1. AWS 콘솔  에서 AWS Lambda 서비스로 이동합니다.
+
 https://ap-northeast-2.console.aws.amazon.com/lambda/home?region=ap-northeast-2#/functions
 
 2. [Create function] 버튼을 클릭하여 함수 생성을 시작합니다.
@@ -36,6 +37,7 @@ Amazon API Gateway는 REST 및 WebSocketAPI 등을 생성, 배포, 유지 관리
 
 
 1. AWS 콘솔  에서 Amazon API Gateway 서비스로 이동합니다.
+
    https://ap-northeast-2.console.aws.amazon.com/apigateway/main/apis?region=ap-northeast-2#
    
    ![image](https://user-images.githubusercontent.com/52392004/153605555-29f9f780-3fa0-4b77-9769-36aef28d88bb.png)
@@ -126,6 +128,7 @@ x-amzn-trace-id: Root=1-6207be39-02e1750519543a464645f254;Sampled=0
 ```
 
 ### Reference
+
 https://catalog.us-east-1.prod.workshops.aws/v2/workshops/05e3e1f9-5d5a-4cc5-9899-df114def68e7/ko-KR/lab1/step3
 
 
